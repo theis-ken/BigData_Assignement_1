@@ -32,8 +32,8 @@ Before running the project, ensure you have the following installed:
 
 ## Running the Spider
    To start the spider and begin scraping data, navigate to the Scrappy\BigData\BigData\spiders\ directory and use the following command:
-    ```bash
-    scrapy crawl books
+   ```bash
+   scrapy crawl books
 
 
 
