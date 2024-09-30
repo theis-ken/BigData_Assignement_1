@@ -26,9 +26,10 @@ Before running the project, ensure you have the following installed:
    cd Scrappy
 
 2. **Required Packages**
-   Have pymongo installed. You can install it using:
+   Ensure pymongo is installed. You can install it using:
    ```bash
    pip install pymongo
+
 
 ## Running the Spider
    To start the spider and begin scraping data, navigate to the Scrappy\BigData\BigData\spiders\ directory and use the following command:
