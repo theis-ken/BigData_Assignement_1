@@ -24,19 +24,19 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone https://github.com/theis-ken/BigData_Ex1
    cd Scrappy
+   ```
 
 2. **Required Packages**
    Ensure pymongo is installed. You can install it using:
    ```bash
    pip install pymongo
-
+   ```
 
 ## Running the Spider
    To start the spider and begin scraping data, navigate to the Scrappy\BigData\BigData\spiders\ directory and use the following command:
-      ```bash
-      scrapy crawl books
-
-
+   ```bash
+   scrapy crawl books
+```
 
 ## Data Storage
 
